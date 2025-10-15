@@ -1,3 +1,7 @@
+## 🧱 System Architecture — Loan Default Risk Prediction
+
+```mermaid
+<-- paste code here -->
 flowchart TD
   subgraph Data[Data & Storage]
     A1[Loan_default.csv (Raw dataset)]
